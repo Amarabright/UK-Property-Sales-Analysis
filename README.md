@@ -7,7 +7,7 @@ This is a Property Sales Analysis done using Tableau.
 
 I decided to advance my career as a data analyst by acquiring knowledge and abilities in predictive, prescriptive, and cognitive analytics, in addition to descriptive and diagnostic analytics.  So to get help improving my talents, I signed up for 10alytics. One of the case studies I worked on was this one.
 
-It is for HM Land Registry, a property registry firm that records and protects the ownership of nearly £8 trillion worth of land and property in England and Wales. Therefore, HM Land Registry's services are used by anyone purchasing, selling, or even taking out a mortgage on land or property. They offered thorough data on real estate transactions in Wales and England between the years 2021, 2022 and first four months of 2023. 
+It is for HM Land Registry, a property registry firm that records and protects the ownership of nearly £8 trillion worth of land and property in England and Wales. Therefore, HM Land Registry's services are used by anyone purchasing, selling, or even taking out a mortgage on land or property. They provided thorough data on real estate transactions in Wales and England between the years 2021, 2022 and first four months of 2023. 
 
 ## Problem Statement:
 
